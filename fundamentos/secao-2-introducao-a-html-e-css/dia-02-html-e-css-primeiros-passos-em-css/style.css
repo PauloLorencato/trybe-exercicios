@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-size: 16px;
+}
+
+h1 {
+    font-family: sans-serif;
+    line-height: 50px;
+    background-color: antiquewhite;
+}
+
+p {
+    font-weight: 600;
+    font-size: 3em;
+    text-align: center;
+    text-decoration: line-through;
+    background-color: bisque;
+}
+
+ul {
+    background-color: aqua;
+}
+
