@@ -22,7 +22,7 @@ let vazio = '';
 for(let i=lado;i>0;i--){
     frase = frase + '*';
     vazio = '';
-    for(let j=0;j<i;j++){
+    for(let j=0;j<i;j+=1){
         vazio = vazio + ' ';
     }
     console.log(vazio + frase);
