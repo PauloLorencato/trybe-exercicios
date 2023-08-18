@@ -16,9 +16,9 @@
 let lado = 5;
 let frase = [];
 
-for(let i=lado;i>0;i--){
+for(let i=lado;i>0;i-=1){
     frase = '';
-    for(let j=lado;j>0;j--){
+    for(let j=lado;j>0;j-=1){
         frase = frase + '*';
     }
     console.log(frase);
