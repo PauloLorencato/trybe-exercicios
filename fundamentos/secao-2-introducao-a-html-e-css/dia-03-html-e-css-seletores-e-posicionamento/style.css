@@ -1,15 +1,7 @@
-h1, p {
-    text-align: center;
+div:hover {
+    border: 2px solid black;
 }
 
-li {
-    list-style: none;
-}
-
-li:hover {
-    background-color: bisque;
-}
-
-li:active {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+body:nth-child(3) {
+    background-color: aquamarine;
 }
