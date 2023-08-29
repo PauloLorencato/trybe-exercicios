@@ -8,9 +8,12 @@ Meu nome é Paulo Victor Lorençato, sou estudante da Escola de Programação Tr
 
 ## Andamento do curso
 
-Até o momento cursei o conteúdo até a seção 01 - aula 03 do módulo Fundamentos. 
+Até o momento cursei o conteúdo até a seção 04 - aula 02 do módulo Fundamentos. 
 Aprendizados:
 	Linux, unix e Shell;
 	Git e Github;
+ 	HTML e HTML semântico;
+  	CSS, seletores e pseudoclasses;
+   	Javascript básico e introdução à DOM;
 
 ## Sinta-se livre para deixar dicas e pontos de melhoria em todos os conteúdos!
